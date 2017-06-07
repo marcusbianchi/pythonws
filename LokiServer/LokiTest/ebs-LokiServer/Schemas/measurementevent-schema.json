@@ -1,0 +1,27 @@
+{
+  "type": "object",
+  "properties": {
+    "thingId": {
+      "type": "integer"
+    },
+    "timeStampMeasured": {
+      "type": "integer"
+    },
+    "tag": {
+      "type": "string"
+    },
+    "groupID": {
+      "type": "string"
+    },
+    "value": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "thingId",
+    "timeStampMeasured",
+    "tag",
+    "groupID",
+    "value"
+  ]
+}

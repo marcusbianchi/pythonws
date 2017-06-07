@@ -1,0 +1,57 @@
+{
+  "type": "object",
+  "properties": {
+    "userId": {
+      "type": "string"
+    },
+    "fullName": {
+      "type": "string"
+    },
+    "companyId": {
+      "type": "integer"
+    },
+    "password": {
+      "type": "string"
+    },
+    "groupId": {
+      "type": "integer"
+    },
+    "groupName": {
+      "type": "string"
+    },
+    "status": {
+      "type": "string"
+    },
+    "email": {
+      "type": "string"
+    },
+    "endpoints": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "urlDisplay": {
+            "type": "string"
+          },
+          "url": {
+            "type": "string"
+          },
+          "environment": {
+            "type": "string"
+          },
+          "permissions": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "permission": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

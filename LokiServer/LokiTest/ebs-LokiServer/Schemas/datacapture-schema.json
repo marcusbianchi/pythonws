@@ -1,0 +1,38 @@
+{
+  "type": "object",
+  "properties": {
+    "dataSourceID": {
+      "type": "string"
+    },
+    "measuredDataList": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "tag": {
+            "type": "string"
+          },
+          "groupID": {
+            "type": "string"
+          },
+          "value": {
+            "type": "string"
+          },
+          "timeStampTicks": {
+            "type": "integer"
+          }
+        },
+        "required": [
+          "tag",
+          "groupID",
+          "value",
+          "timeStampTicks"
+        ]
+      }
+    }
+  },
+  "required": [
+    "dataSourceID",
+    "measuredDataList"
+  ]
+}

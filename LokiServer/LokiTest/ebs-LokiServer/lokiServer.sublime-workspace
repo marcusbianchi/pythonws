@@ -1,0 +1,453 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"con",
+				"contents"
+			],
+			[
+				"func",
+				"funcReads"
+			],
+			[
+				"device",
+				"deviceID"
+			],
+			[
+				"de",
+				"device"
+			],
+			[
+				"sign",
+				"signalRead"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"si",
+				"signalRead"
+			],
+			[
+				"regi",
+				"registerlLength"
+			],
+			[
+				"bu",
+				"bufferIndex"
+			],
+			[
+				"for",
+				"for\tfor (…) {…}"
+			],
+			[
+				"fu",
+				"fun\tFunction"
+			],
+			[
+				"Mod",
+				"ModBusRead"
+			],
+			[
+				"M",
+				"ModBusRead"
+			],
+			[
+				"deve",
+				"deviceList"
+			],
+			[
+				"cp",
+				"comPortPath"
+			],
+			[
+				"f",
+				"fun\tFunction"
+			],
+			[
+				"Send",
+				"SendToAPI"
+			],
+			[
+				"re",
+				"require"
+			],
+			[
+				"read",
+				"readModbusRTU"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "application.py",
+			"settings":
+			{
+				"buffer_size": 1059,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 185.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: un",
+				"Package Control: List Unmanaged Packages"
+			],
+			[
+				"pak",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 176.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/marcuss.SPI/PythonWorkspace/LokiServer/LokiTest/ebs-LokiServer",
+		"/C/Users/marcuss.SPI/PythonWorkspace/LokiServer/LokiTest/ebs-LokiServer/Modules"
+	],
+	"file_history":
+	[
+		"/C/Users/marcuss.SPI/AppData/Roaming/Sublime Text 3/Packages/Colorsublime/Colorsublime.sublime-settings",
+		"/C/Users/marcuss.SPI/NodeWorkspace/mockDashboard/database/1.json",
+		"/C/Users/marcuss.SPI/PythonWorkspace/LokiServer/LokiTest/ebs-LokiServer/Schemas/thing-schema.json",
+		"/C/Users/marcuss.SPI/PythonWorkspace/LokiServer/LokiTest/ebs-LokiServer/Schemas/datacapture-schema.json",
+		"/C/Users/marcuss.SPI/PythonWorkspace/LokiServer/LokiTest/ebs-LokiServer/Schemas/measurementevent-schema.json",
+		"/C/Users/marcuss.SPI/NodeWorkspace/mockDashboard/index.js",
+		"/C/Users/marcuss.SPI/NodeWorkspace/mockDashboard/package.json",
+		"/C/Users/marcuss.SPI/NodeWorkspace/drivermodbus-rtu/Devices/166.json",
+		"/C/Users/marcuss.SPI/NodeWorkspace/drivermodbus-rtu/Devices/132.json",
+		"/C/Users/marcuss.SPI/NodeWorkspace/drivermodbus-rtu/Devices/124.json",
+		"/C/Users/marcuss.SPI/NodeWorkspace/drivermodbus-rtu/Devices/1.json",
+		"/C/Users/marcuss.SPI/NodeWorkspace/drivermodbus-rtu/Devices/159.json",
+		"/C/Users/marcuss.SPI/NodeWorkspace/drivermodbus-rtu/Devices/80.json",
+		"/C/Users/marcuss.SPI/NodeWorkspace/drivermodbus-rtu/Devices/79.json",
+		"/C/Users/marcuss.SPI/NodeWorkspace/drivermodbus-rtu/Devices/78.json",
+		"/C/Users/marcuss.SPI/NodeWorkspace/drivermodbus-rtu/Devices/77.json",
+		"/C/Users/marcuss.SPI/NodeWorkspace/drivermodbus-rtu/Devices/76.json",
+		"/C/Users/marcuss.SPI/NodeWorkspace/drivermodbus-rtu/Devices/51.json",
+		"/C/Users/marcuss.SPI/NodeWorkspace/drivermodbus-rtu/Devices/47.json",
+		"/C/Users/marcuss.SPI/NodeWorkspace/drivermodbus-rtu/Devices/43.json",
+		"/C/Users/marcuss.SPI/NodeWorkspace/drivermodbus-rtu/Devices/30.json",
+		"/C/Users/marcuss.SPI/NodeWorkspace/drivermodbus-rtu/Devices/28.json",
+		"/C/Users/marcuss.SPI/NodeWorkspace/drivermodbus-rtu/Devices/161.json",
+		"/C/Users/marcuss.SPI/NodeWorkspace/drivermodbus-rtu/Devices/82.json",
+		"/C/Users/marcuss.SPI/NodeWorkspace/drivermodbus-rtu/Devices/168.json",
+		"/C/Users/marcuss.SPI/NodeWorkspace/drivermodbus-rtu/Devices/188.json",
+		"/C/Users/marcuss.SPI/NodeWorkspace/drivermodbus-rtu/Devices/193.json",
+		"/C/Users/marcuss.SPI/NodeWorkspace/drivermodbus-rtu/Devices/194.json",
+		"/C/Users/marcuss.SPI/NodeWorkspace/drivermodbus-rtu/Devices/197.json",
+		"/C/Users/marcuss.SPI/NodeWorkspace/drivermodbus-rtu/Devices/200.json",
+		"/C/Users/marcuss.SPI/NodeWorkspace/drivermodbus-rtu/Devices/201.json",
+		"/C/Users/marcuss.SPI/NodeWorkspace/drivermodbus-rtu/Devices/203.json",
+		"/C/Users/marcuss.SPI/NodeWorkspace/drivermodbus-rtu/Devices/48.json",
+		"/C/Users/marcuss.SPI/NodeWorkspace/drivermodbus-rtu/Devices/49.json",
+		"/C/Users/marcuss.SPI/NodeWorkspace/drivermodbus-rtu/Devices/50.json",
+		"/C/Users/marcuss.SPI/NodeWorkspace/drivermodbus-rtu/Devices/59.json",
+		"/C/Users/marcuss.SPI/NodeWorkspace/drivermodbus-rtu/Devices/62.json",
+		"/C/Users/marcuss.SPI/NodeWorkspace/drivermodbus-rtu/Devices/64.json",
+		"/C/Users/marcuss.SPI/NodeWorkspace/drivermodbus-rtu/Devices/81.json",
+		"/C/Users/marcuss.SPI/NodeWorkspace/drivermodbus-rtu/Devices/106.json",
+		"/C/Users/marcuss.SPI/NodeWorkspace/drivermodbus-rtu/Devices/110.json",
+		"/C/Users/marcuss.SPI/NodeWorkspace/drivermodbus-rtu/Devices/114.json",
+		"/C/Users/marcuss.SPI/NodeWorkspace/drivermodbus-rtu/Devices/56.json",
+		"/C/Users/marcuss.SPI/NodeWorkspace/drivermodbus-rtu/Devices/61.json",
+		"/C/Users/marcuss.SPI/NodeWorkspace/drivermodbus-rtu/Devices/63.json",
+		"/C/Users/marcuss.SPI/NodeWorkspace/drivermodbus-rtu/Devices/65.json",
+		"/C/Users/marcuss.SPI/NodeWorkspace/drivermodbus-rtu/Devices/67.json",
+		"/C/Users/marcuss.SPI/NodeWorkspace/drivermodbus-rtu/Devices/69.json",
+		"/C/Users/marcuss.SPI/NodeWorkspace/drivermodbus-rtu/Devices/70.json",
+		"/C/Users/marcuss.SPI/NodeWorkspace/drivermodbus-rtu/Devices/71.json",
+		"/C/Users/marcuss.SPI/NodeWorkspace/drivermodbus-rtu/Devices/72.json",
+		"/C/Users/marcuss.SPI/NodeWorkspace/drivermodbus-rtu/Devices/73.json",
+		"/C/Users/marcuss.SPI/NodeWorkspace/drivermodbus-rtu/Devices/74.json",
+		"/C/Users/marcuss.SPI/NodeWorkspace/drivermodbus-rtu/Devices/75.json",
+		"/C/Users/marcuss.SPI/NodeWorkspace/drivermodbus-rtu/Devices/117.json",
+		"/C/Users/marcuss.SPI/NodeWorkspace/drivermodbus-rtu/Devices/118.json",
+		"/C/Users/marcuss.SPI/NodeWorkspace/drivermodbus-rtu/Devices/119.json",
+		"/C/Users/marcuss.SPI/NodeWorkspace/drivermodbus-rtu/Devices/121.json",
+		"/C/Users/marcuss.SPI/NodeWorkspace/drivermodbus-rtu/Devices/125.json",
+		"/C/Users/marcuss.SPI/NodeWorkspace/drivermodbus-rtu/Devices/128.json",
+		"/C/Users/marcuss.SPI/NodeWorkspace/drivermodbus-rtu/Devices/134.json",
+		"/C/Users/marcuss.SPI/NodeWorkspace/drivermodbus-rtu/Devices/136.json",
+		"/C/Users/marcuss.SPI/NodeWorkspace/drivermodbus-rtu/Devices/137.json",
+		"/C/Users/marcuss.SPI/NodeWorkspace/drivermodbus-rtu/Devices/138.json",
+		"/C/Users/marcuss.SPI/NodeWorkspace/drivermodbus-rtu/Devices/139.json",
+		"/C/Users/marcuss.SPI/NodeWorkspace/drivermodbus-rtu/Devices/141.json",
+		"/C/Users/marcuss.SPI/NodeWorkspace/drivermodbus-rtu/Devices/148.json",
+		"/C/Users/marcuss.SPI/NodeWorkspace/drivermodbus-rtu/Devices/149.json",
+		"/C/Users/marcuss.SPI/NodeWorkspace/drivermodbus-rtu/Devices/154.json",
+		"/C/Users/marcuss.SPI/NodeWorkspace/drivermodbus-rtu/Devices/155.json",
+		"/C/Users/marcuss.SPI/NodeWorkspace/drivermodbus-rtu/Devices/158.json",
+		"/C/Users/marcuss.SPI/NodeWorkspace/drivermodbus-rtu/Devices/85.json",
+		"/C/Users/marcuss.SPI/NodeWorkspace/drivermodbus-rtu/Devices/147.json",
+		"/C/Users/marcuss.SPI/NodeWorkspace/drivermodbus-rtu/Devices/146.json",
+		"/C/Users/marcuss.SPI/NodeWorkspace/drivermodbus-rtu/Devices/135.json",
+		"/C/Users/marcuss.SPI/NodeWorkspace/drivermodbus-rtu/Modules/modbusRead.js",
+		"/C/Users/marcuss.SPI/NodeWorkspace/drivermodbus-rtu/Devices/37.json",
+		"/C/Users/marcuss.SPI/NodeWorkspace/drivermodbus-rtu/Devices/38.json",
+		"/C/Users/marcuss.SPI/NodeWorkspace/drivermodbus-rtu/Devices/44.json",
+		"/C/Users/marcuss.SPI/NodeWorkspace/drivermodbus-rtu/Devices/45.json",
+		"/C/Users/marcuss.SPI/NodeWorkspace/drivermodbus-rtu/Devices/52.json",
+		"/C/Users/marcuss.SPI/NodeWorkspace/drivermodbus-rtu/Devices/60.json",
+		"/C/Users/marcuss.SPI/NodeWorkspace/drivermodbus-rtu/Devices/105.json",
+		"/C/Users/marcuss.SPI/NodeWorkspace/drivermodbus-rtu/Devices/107.json",
+		"/C/Users/marcuss.SPI/NodeWorkspace/drivermodbus-rtu/Devices/115.json",
+		"/C/Users/marcuss.SPI/NodeWorkspace/drivermodbus-rtu/Devices/120.json",
+		"/C/Users/marcuss.SPI/NodeWorkspace/drivermodbus-rtu/Devices/126.json",
+		"/C/Users/marcuss.SPI/NodeWorkspace/drivermodbus-rtu/Devices/127.json",
+		"/C/Users/marcuss.SPI/NodeWorkspace/drivermodbus-rtu/Devices/129.json",
+		"/C/Users/marcuss.SPI/NodeWorkspace/drivermodbus-rtu/Devices/130.json",
+		"/C/Users/marcuss.SPI/NodeWorkspace/drivermodbus-rtu/Devices/36.json",
+		"/C/Users/marcuss.SPI/NodeWorkspace/drivermodbus-rtu/Devices/35.json",
+		"/C/Users/marcuss.SPI/NodeWorkspace/drivermodbus-rtu/Devices/33.json",
+		"/C/Users/marcuss.SPI/NodeWorkspace/drivermodbus-rtu/Devices/216.json",
+		"/C/Users/marcuss.SPI/NodeWorkspace/drivermodbus-rtu/Devices/209.json",
+		"/C/Users/marcuss.SPI/NodeWorkspace/drivermodbus-rtu/Devices/208.json",
+		"/C/Users/marcuss.SPI/NodeWorkspace/drivermodbus-rtu/Devices/180.json",
+		"/C/Users/marcuss.SPI/NodeWorkspace/drivermodbus-rtu/Devices/172.json",
+		"/C/Users/marcuss.SPI/NodeWorkspace/drivermodbus-rtu/Devices/170.json",
+		"/C/Users/marcuss.SPI/NodeWorkspace/drivermodbus-rtu/Devices/167.json",
+		"/C/Users/marcuss.SPI/NodeWorkspace/drivermodbus-rtu/Devices/12.json",
+		"/C/Users/marcuss.SPI/NodeWorkspace/drivermodbus-rtu/Devices/14.json",
+		"/C/Users/marcuss.SPI/NodeWorkspace/cloeeserver/test/user-test.js",
+		"/C/Users/marcuss.SPI/Downloads/5545064_2016-10-26_15-12-04Z.xml",
+		"/C/Users/marcuss.SPI/NodeWorkspace/test/testapp/app.js",
+		"/C/Users/marcuss.SPI/NodeWorkspace/test/testapp/routes/users.js",
+		"/C/Users/marcuss.SPI/NodeWorkspace/test/testapp/routes/index.js",
+		"/C/Users/marcuss.SPI/NodeWorkspace/drivermodbus-rtu/Devices/247.json",
+		"/C/Users/marcuss.SPI/NodeWorkspace/drivermodbus-rtu/config.json",
+		"/C/Users/marcuss.SPI/NodeWorkspace/drivermodbus-rtu/index.js",
+		"/C/Users/marcuss.SPI/NodeWorkspace/drivermodbus-rtu/Devices/247",
+		"/C/Users/marcuss.SPI/NodeWorkspace/drivermodbus-rtu/sendToAPILog.json",
+		"/C/Users/marcuss.SPI/NodeWorkspace/drivermodbus-rtu/buffer/1473960895176.json",
+		"/C/Users/marcuss.SPI/NodeWorkspace/drivermodbus-rtu/buffer/1473937772986.json",
+		"/C/Users/marcuss.SPI/NodeWorkspace/drivermodbus-rtu/drivermodbus-rtu.sublime-project",
+		"/C/Users/marcuss.SPI/NodeWorkspace/drivermodbus-rtu/Modules/sendToAPI.js",
+		"/C/Users/marcuss.SPI/NodeWorkspace/drivermodbus-rtu/Modules/bufferData.js",
+		"/C/Users/marcuss.SPI/NodeWorkspace/drivermodbus-rtu/package.json",
+		"/C/Users/marcuss.SPI/Desktop/Roche/Informal Test/V1/Comissioning_KAU.xml",
+		"/C/Users/marcuss.SPI/Desktop/Roche/Informal Test/V1/Aggregation.xml",
+		"/C/Users/marcuss.SPI/NodeWorkspace/drivermodbus-rtu/driverLog.json",
+		"/C/Users/marcuss.SPI/NodeWorkspace/drivermodbus-rtu/buffer/1472212803670.json",
+		"/C/Users/marcuss.SPI/NodeWorkspace/drivermodbus-rtu/buffer/1472212726746.json",
+		"/C/Users/marcuss.SPI/AppData/Roaming/Sublime Text 3/Packages/JsFormat/Default (Windows).sublime-keymap",
+		"/C/Users/marcuss.SPI/AppData/Roaming/Sublime Text 3/Packages/User/JsFormat.sublime-settings",
+		"/C/Users/marcuss.SPI/AppData/Roaming/Sublime Text 3/Packages/JsFormat/JsFormat.sublime-settings",
+		"/C/Users/marcuss.SPI/Documents/ANVISA/Teste.xml",
+		"/C/Users/marcuss.SPI/Documents/ANVISA/sncmSimpleTypes.xsd"
+	],
+	"find":
+	{
+		"height": 46.0
+	},
+	"find_in_files":
+	{
+		"height": 117.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			");\n",
+			"37",
+			"172",
+			"info",
+			"startRegister",
+			"registerlLength",
+			"callback",
+			"');",
+			");"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "application.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1059,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								335,
+								335
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 33.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 154.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "lokiServer.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 206.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

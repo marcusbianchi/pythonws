@@ -1,0 +1,66 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "properties": {
+    "characteristics": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "characteristicId": {
+            "type": "integer"
+          },
+          "key": {
+            "type": "string"
+          },
+          "value": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "characteristicId",
+          "key",
+          "value"
+        ]
+      }
+    },
+    "code": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    },
+    "name": {
+      "type": "string"
+    },
+    "parentThingId": {
+      "type": "integer"
+    },
+    "physicalConn": {
+      "type": "string"
+    },
+    "status": {
+      "type": "string"
+    },
+    "thingId": {
+      "type": "integer"
+    },
+    "thingLvl": {
+      "type": "integer"
+    },
+    "thingLvlDescription": {
+      "type": "string"
+    },
+    "thingType": {
+      "type": "null"
+    }
+  },
+  "required": [
+     "code",
+    "description",
+    "name",
+    "physicalConn",
+    "status",
+    "thingId"
+  ]
+}
