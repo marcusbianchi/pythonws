@@ -50,10 +50,19 @@ p {
 .rodape-pagina {
     background-color: #000;
     color: #F2FFFC;
+     position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
 }
 
 main a {
     color: #851944;
+}
+
+main{
+    padding-bottom: 80px;
+
 }
 
 .navegacao-site a {
@@ -128,16 +137,17 @@ em {
     background-image: url(linkedin.png);
 }
 
-aside,img{
+aside{
+        box-sizing: border-box;
+
     float: right;
     width: 15%;
+    border: 10px solid #000000;
+      clear:right;
+    position: relative;
+    top: 310px;
 }
 
-aside{
-    box-sizing: border-box;
-    clear:right;
-    
-}
 
 main{
     float: left;
@@ -146,4 +156,9 @@ main{
 
 .rodape-pagina{
     clear:both;
+}
+
+.minha-foto{
+    position: absolute;
+    border: 10px solid #000000;
 }
